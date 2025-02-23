@@ -1,0 +1,4 @@
+Title: My First Blog Post
+Date: 2023-10-27
+---
+This is the content of my first blog post.
