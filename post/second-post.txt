@@ -1,0 +1,4 @@
+Title: Another Blog Post
+Date: 2023-10-28
+---
+This is the content of my second blog post.
